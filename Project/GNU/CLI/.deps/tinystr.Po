@@ -1,0 +1,1 @@
+tinystr.o: ../../../Source/TinyXml/tinystr.cpp
